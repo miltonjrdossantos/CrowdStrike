@@ -1,0 +1,58 @@
+Linux - Ubuntu
+Ubuntu 14/16/18 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: 0c5bee4a0f1b8b3b7dfb9c260de9fc858bbfad11f96ae9a81adc7a462bb0ac04
+
+Linux - SLES
+SLES 11 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: 59d34741a1157da14aff33f8b93c544eeb8725be06adf5b8fcc410b2321a2bcf
+
+
+SLES 12 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: 0b889555ad15225b5e6e53ffd5124113fa213999026a5b9dfd73067dc583c753
+
+
+SLES 15 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: 959fcb67d7f24c6295f1e2df072276228143f0ecb0b55ac28a708452684c3e82
+
+
+Linux - RHEL/CentOS/Oracle
+RHEL/CentOS/Oracle 6 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: 5c7fe14045728239361ebffc0eeab444dfe66102720e5bdeb165dccfed7619d9
+
+
+RHEL/CentOS/Oracle 7 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: ad886dff4213a83ae7b8b20beb680abe9510b00150b875058f89fc9dfdf8d36d
+
+
+RHEL/CentOS/Oracle 8 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: c1246dfecb8d93beb947fef4fe78617017b2143b5dddb63d8d78e591c9fb6a3a
+
+
+Linux - Debian
+Debian 9 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: 0c5bee4a0f1b8b3b7dfb9c260de9fc858bbfad11f96ae9a81adc7a462bb0ac04
+
+
+Linux - Amazon Linux
+Amazon Linux 1 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: 5b3a4cf26cac7ae3584a5c2a514fe2a8b59ca921a96fd22aec29339da7850226
+
+
+Amazon Linux 2 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: e9a042b41e62d6e7600dc736dfdd2e2cf316add1ca1decf86cf47cb9eb32c709
+
+
+Amazon Linux 2 - arm64 - 5.43.10802
+Release date: Oct. 12, 2020
+SHA256: 8879943e8d1ef9dfbd68bd28863269fdafcbba52e5291c4168c6bec0573b09e1
+
